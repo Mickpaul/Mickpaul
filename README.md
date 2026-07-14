@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="mickpaul1001@gmail.com" target="_blank" style="margin: 0 8px;">
+    <a href="mailto:mickpaul1001@gmail.com" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/mickpaul1001/" target="_blank" style="margin: 0 8px;">
