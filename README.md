@@ -11,10 +11,10 @@
     <a href="mickpaul1001@gmail.com" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
-    <a href="www.linkedin.com/in/michael-paul-082a002bb" target="_blank" style="margin: 0 8px;">
+    <a href="https://www.linkedin.com/in/mickpaul1001/" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
-    <a href="(https://www.instagram.com/mickpaul1001?igsh=YzVmbTd4aGV6dTg5&utm_source=qr" target="_blank" style="margin: 0 8px;">
+    <a href="https://www.instagram.com/mickpaul1001?igsh=YzVmbTd4aGV6dTg5&utm_source=qr" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
     </a>
     <a href="YOUR_GITHUB_LINK" target="_blank" style="margin: 0 8px;">
