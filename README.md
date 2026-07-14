@@ -6,11 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI%7C+Excel+%7C+Python+%7C+SQL;Over+2+Years+Experience" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram,github," alt="My Skills">
-  </a>
+    <a href="mickpaul1001@gmail.com" target="_blank" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    </a>
+    <a href="www.linkedin.com/in/michael-paul-082a002bb" target="_blank" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    </a>
+    <a href="(https://www.instagram.com/mickpaul1001?igsh=YzVmbTd4aGV6dTg5&utm_source=qr" target="_blank" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+    </a>
+    <a href="YOUR_GITHUB_LINK" target="_blank" style="margin: 0 8px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+    </a>
 </p>
+    
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
