@@ -23,11 +23,23 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+📊 Data Analytics & Business Intelligence Analyst
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+🎓 First-Class Computer System Engineering
+
+📍 Sunderland, United Kingdom
+
+💡 Passionate about transforming complex, messy datasets into  clear stories, & helping businesses make sense of their data. 
+
+💼 Open to Data Analyst, Business Intelligence Analyst, and Business Analyst opportunities
+
+📈 Interested in Business Intelligence, Data Visualization, & Analytics using Excel, Python, SQl, Power BI and Tableau
+
+🤝 Open to collaborating on Data Analytics, BI, and Open Source projects
+
+ I love the "aha!" moment when data reveals something new and useful.
+
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -40,8 +52,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Currently expanding my knowledge in Advanced SQL, Python for Analytics.
+- AWS, and Cloud Data Technologies.
 
 ## 🛠️ Technical Skillset
 
