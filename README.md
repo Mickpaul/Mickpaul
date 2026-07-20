@@ -17,11 +17,11 @@
     <a href="https://www.instagram.com/mickpaul1001?igsh=YzVmbTd4aGV6dTg5&utm_source=qr" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
     </a>
-    <a href="https://github.com/Mickpaul" target="_blank" style="margin: 0 8px;">
+    <a href="https://mickpaul.github.io" target="_blank" style="margin: 0 8px;">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
 </p>
-
+https://github.com/Mickpaul
 ## 🚀 About Me 
 
 📊 Data Analytics & Business Intelligence Analyst
