@@ -46,9 +46,9 @@ https://github.com/Mickpaul
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Telco Customer Churn Analysis. This project analyzes customer churn data to identify key factors influencing customer retention]  
-- **Project B:** [Superstore Sales Analysis. The project uses data cleaning, exploratory analysis, and visualization to identify key business insights and support data-driven decision-making., e.g., Creating an interactive sales dashboard in Power BI to identify trends.]
-- **Project C:** [Customer Insights Dashboard. An interactive dashboard designed to analyze customer behavior, purchasing patterns, sales performance, and key customer segments]
+- **Project A:** Telco Customer Churn Analysis. This project analyzes customer churn data to identify key factors influencing customer retention  
+- **Project B:** Superstore Sales Analysis. The project uses data cleaning, exploratory analysis, and visualization to identify key business insights and support data-driven decision-making., e.g., Creating an interactive sales dashboard in Power BI to identify trends.
+- **Project C:** Customer Insights Dashboard. An interactive dashboard designed to analyze customer behavior, purchasing patterns, sales performance, and key customer segments
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
