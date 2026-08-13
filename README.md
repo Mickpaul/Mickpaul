@@ -26,7 +26,7 @@ https://github.com/Mickpaul
 
 📊 Data Analytics & Business Intelligence Analyst
 
-🎓 First-Class Computer System Engineering
+🎓 First-Class Computer System Engineering/ Distinction Computer Science 
 
 📍 Sunderland, United Kingdom
 
